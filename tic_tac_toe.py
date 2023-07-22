@@ -1,6 +1,5 @@
 from copy import deepcopy
 import numpy as np
-from tkinter import *
 from tabulate import tabulate
 
 class TicTacToe:
